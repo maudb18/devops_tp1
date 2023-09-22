@@ -1,0 +1,2 @@
+message = "félicitations"
+print(message)
